@@ -1,0 +1,10 @@
+body {
+    background-color: #25252a;
+}
+
+.video-player {
+    position: absolute;
+    left: 16.5%;
+    top: 16.5%;
+    
+}
